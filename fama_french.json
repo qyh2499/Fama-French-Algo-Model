@@ -1,6 +1,20 @@
 {
   "info": {
-    "tickers": "AMZN",
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "TSLA",
+      "META",
+      "AMZN"
+    ],
+    "initial_capital_invested": 0.8,
+    "initial_weight": [
+      0.204908489469677,
+      0.451256089888943,
+      0.26578039588286867,
+      0.012609640415846187,
+      0.06544538434266521
+    ],
     "start_date": "2023-03-01",
     "end_date": "2023-05-02"
   },
